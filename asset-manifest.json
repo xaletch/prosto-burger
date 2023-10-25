@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/prosto-burger/static/css/main.cd7edcf1.css",
+    "main.js": "/prosto-burger/static/js/main.ce7647d1.js",
+    "Cart.js": "/prosto-burger/static/js/Cart.99a79a7e.chunk.js",
+    "FullProducts.js": "/prosto-burger/static/js/FullProducts.d855bf1f.chunk.js",
+    "NotFound.js": "/prosto-burger/static/js/NotFound.5e9f9f9d.chunk.js",
+    "static/js/787.affa5bbf.chunk.js": "/prosto-burger/static/js/787.affa5bbf.chunk.js",
+    "static/media/burger-logo.png": "/prosto-burger/static/media/burger-logo.61d72e8bb18b8255d29f.png",
+    "static/media/cartEmpty.png": "/prosto-burger/static/media/cartEmpty.4ea49652c9d0d8b40c39.png",
+    "index.html": "/prosto-burger/index.html",
+    "main.cd7edcf1.css.map": "/prosto-burger/static/css/main.cd7edcf1.css.map",
+    "main.ce7647d1.js.map": "/prosto-burger/static/js/main.ce7647d1.js.map",
+    "Cart.99a79a7e.chunk.js.map": "/prosto-burger/static/js/Cart.99a79a7e.chunk.js.map",
+    "FullProducts.d855bf1f.chunk.js.map": "/prosto-burger/static/js/FullProducts.d855bf1f.chunk.js.map",
+    "NotFound.5e9f9f9d.chunk.js.map": "/prosto-burger/static/js/NotFound.5e9f9f9d.chunk.js.map",
+    "787.affa5bbf.chunk.js.map": "/prosto-burger/static/js/787.affa5bbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd7edcf1.css",
+    "static/js/main.ce7647d1.js"
+  ]
+}
